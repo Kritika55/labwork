@@ -1,0 +1,2 @@
+win = Tk()
+win.title
